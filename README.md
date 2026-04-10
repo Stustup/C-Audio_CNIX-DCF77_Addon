@@ -1,5 +1,5 @@
 # DCF77 Addon Board for the C-Audio Nixie Clock (CNIX)
-(This Board was sponsored by PCBWay)
+(This project was sponsored by PCBWay)
 
 This board adds automatic time setting via a DCF77 radio to CNIX. Also temperature and humidity readings are possible with a HTU21 sensor from TE Connectivity which can be read via I2C and viewed via the first submenu on the clock (instead of the manual time setting). The antenna is hold in place with cable ties.
 
