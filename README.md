@@ -12,4 +12,4 @@ The breakout pins are still accessable, as well as the I2C breakout, which can b
 The code to communicate with the modules remains on the main control PCB, which you can find [here](https://github.com/Stustup/C-Nixie_CNIX). This board uses the integrated ID system of CNIX via pins D2 and D3 and has the adress 0x0 (first addon board).
 
 The addon board was sponsored by PCBWay. As always, their service was amazing and the facbrication as well as the shipping was fast. Because of the all-in-one customs and shipping price the handling of taxes and other fees was very easy.
-I highly recommend their services if you want to build this PCB.
+I highly recommend their services if you want to build this PCB. [Click here](https://www.pcbway.com/orderonline.aspx) to get to the order form if you want to order this or any other PCBs.
